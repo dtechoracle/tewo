@@ -54,10 +54,10 @@ export default function AccountInfo({
           </p>
           <p
             title="copy"
-            onClick={() => handleCopy("9075789680")}
+            onClick={() => handleCopy("8127982163")}
             className="flex flex-row items-center text-[#1D2329] font-medium text-[16px] leading-[24px] cursor-default"
           >
-            9075789680{" "}
+            8127982163{" "}
             <span>
               <IoCopyOutline />
             </span>
@@ -69,7 +69,7 @@ export default function AccountInfo({
           </p>
           <p className="text-[#1D2329] font-medium  text-[16px]  leading-[24px] ">
             {" "}
-            Victor Olatunji
+            Ezekiel Jeremiah
           </p>
         </div>
         <div className="max-w-[450px] mx-auto flex w-full gap-5 justify-between">
