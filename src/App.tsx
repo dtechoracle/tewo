@@ -95,7 +95,7 @@ function App() {
               className="text-black"
               href="https://x.com/dtechoracle"
             >
-              Dtechoracle⚡️
+              Dtechoracle⚡️(me)
             </a>
           </span>
         </p>
@@ -108,7 +108,7 @@ function App() {
               className="text-black"
               href="https://x.com/heyVickyJay"
             >
-              Me,
+              VickyJay,
             </a>
           </span>
         </p>
