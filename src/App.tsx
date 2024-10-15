@@ -4,7 +4,7 @@ import ConfettiExplosion from "react-confetti-explosion";
 import { ChangeEvent, FormEvent, useState } from "react";
 
 function App() {
-  const [amount, setAmount] = useState<number | string>("30,000");
+  const [amount, setAmount] = useState<number | string>("2,000");
   const [isExploding, setIsExploding] = useState(false);
   const [showAccountDetails, setShowAccountDetails] = useState<boolean>(false);
   const handleChange = (e: ChangeEvent<HTMLInputElement>) => {
